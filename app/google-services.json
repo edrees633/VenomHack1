@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041555048495",
+    "project_id": "venomhack1-e4c26",
+    "storage_bucket": "venomhack1-e4c26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041555048495:android:2aedcaadddaa5cca9f1eda",
+        "android_client_info": {
+          "package_name": "com.example.venomhack1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041555048495-59se9kkjquiffle1rutvsag7u4srrbc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqhY4K5jsYW9ZOHxRbNuK517ao-iVpoe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041555048495-59se9kkjquiffle1rutvsag7u4srrbc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
